@@ -17,3 +17,5 @@ Day4:https://youtu.be/Dg19Opb4GTk
 Day5:https://youtu.be/4vhelPS_jko
 
 Day6:https://youtu.be/Kzue4aOEFmI
+
+Day7:https://youtu.be/KCi9TmU_2K4
