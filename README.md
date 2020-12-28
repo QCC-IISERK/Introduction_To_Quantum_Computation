@@ -19,3 +19,7 @@ Day5:https://youtu.be/4vhelPS_jko
 Day6:https://youtu.be/Kzue4aOEFmI
 
 Day7:https://youtu.be/KCi9TmU_2K4
+
+Day8:https://youtu.be/pT9nYXz1SBg
+
+Day9:https://youtu.be/SoPZidv8pUs
