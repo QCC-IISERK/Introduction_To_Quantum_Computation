@@ -1,6 +1,6 @@
 # Introduction_To_Quantum_Computation
 
-This Session and repository is being maintained by Rohit Prasad (Codie), 16MS176, IISERK.
+This Session and repository is being maintained by Codie.
 
 Youtube chanel:https://www.youtube.com/channel/UCTx1sMQon3Fs-BuPpX0ONeQ
 
